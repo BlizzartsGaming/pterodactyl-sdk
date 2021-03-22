@@ -35,7 +35,7 @@ Please check the [documentation](https://hcgcloud.github.io/pterodactyl-sdk-docs
 
 ## Support
 
-You can get support by going to our [Discord server](https://discord.gg/5KnNVfv) or [submitting new issue](https://github.com/hcgcloud/pterodactyl-sdk/issues/new).
+You can get support by going to our [Discord server](https://discord.gg/UaHxvZpPk2) or [submitting new issue](https://github.com/hcgcloud/pterodactyl-sdk/issues/new).
 
 As a third-party API wrapper, We recommend you not asking for help elsewhere, or we may not be able to help you.
 
